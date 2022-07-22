@@ -8,7 +8,7 @@ package control_statements.if_statements;
  *          실행 코드 블럭(조건식이 false 인 경우 실행됨)
  *      }
  */
-public class If_StatementsEx02 {
+public class IfStatementsEx02 {
 
     public static void main(String[] args) {
         int a = 10;

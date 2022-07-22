@@ -15,7 +15,7 @@ import java.util.Scanner;
  *           기본 실행 구문;
  *      }
  */
-public class Switch_StatementEx {
+public class SwitchStatementEx {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

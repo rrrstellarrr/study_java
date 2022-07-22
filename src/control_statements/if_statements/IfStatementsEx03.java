@@ -10,7 +10,7 @@ package control_statements.if_statements;
  *          실행 코드 블럭(위 조건식이 모두 false 인 경우 실행됨)
  *      }
  */
-public class If_StatementsEx03 {
+public class IfStatementsEx03 {
 
     public static void main(String[] args) {
         String str = "사과";

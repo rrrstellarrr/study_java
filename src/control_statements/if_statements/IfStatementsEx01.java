@@ -6,7 +6,7 @@ package control_statements.if_statements;
  *          실행 코드 블럭(조건식이 true 인 경우 실행됨)
  *      }
  */
-public class If_StatementsEx01 {
+public class IfStatementsEx01 {
 
     public static void main(String[] args) {
         int a = 10;
